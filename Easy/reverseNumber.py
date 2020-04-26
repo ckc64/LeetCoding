@@ -9,4 +9,4 @@ def reverse(x):
 
 
 
-print(reverse(9010000))
+print(reverse(10))
